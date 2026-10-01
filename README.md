@@ -20,7 +20,7 @@ Mood Music Player is a Java Swing desktop application that helps users find song
 
 ## How to Run
 
-Make sure Java JDK is installed, then run these commands from the project folder:
+Make sure the Java JDK is installed, then run these commands from the project folder:
 
 ```powershell
 javac -d out src\main\java\com\mycompany\musicplayer\MusicPlayer.java
